@@ -24,10 +24,10 @@
       <file name="$USER_HOME$/Documents/Code/Paginas/Limpieza1/index.html" timestamp="1541548187895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Code/Paginas/CursoUdemy/index.html" timestamp="1541619828119">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/Documents/Code/Paginas/CursoUdemy/index.html" timestamp="1541623329258">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -42,7 +42,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtIj4KICAgICAgICAgICAgICAgIE9uZSBvZiB0aHJlZSBjb2x1bW5zCiAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>lesheet</text>
+        <text>pull-xs-right&quot;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL3N0YWNrcGF0aC5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC80LjEuMy9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiIGludGVncml0eT0ic2hhMzg0LU1Ddzk4L1NGbkdFOGZKVDNHWHdFT25nc1Y3WnQyN05YRm9hb0FwbVltODFpdVhvUGtGT0p3SjhFUmRrbkxQTU8iIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPgo=</text>
@@ -72,7 +72,7 @@
         <text encoding="base64">IGJhY2tncm91bmQtY29sb3I6ICMwMDhDQkE7Cn0KCgoudGV4dCB7CiAgICBjb2xvcjogd2hpdGU7CiAgICBmb250LXNpemU6IDIwcHg7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICB0b3A6IDUwJTsKICAgIGxlZnQ6IDUwJTsKICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7CiAgICAtbXMtdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7CiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>lesheet</text>
+        <text>pull-xs-right&quot;</text>
       </register>
     </registers>
     <search>
